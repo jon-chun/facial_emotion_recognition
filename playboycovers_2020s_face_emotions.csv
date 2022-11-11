@@ -1,0 +1,2 @@
+date,age,gender,dominant_race,dominant_emotion,region.x,region.y,region.w,region.h,race.asian,race.indian,race.black,race.white,race.middle eastern,race.latino hispanic,emotion.angry,emotion.disgust,emotion.fear,emotion.happy,emotion.sad,emotion.surprise,emotion.neutral
+2020Winter.png,25,Man,black,fear,747,774,75,75,2.696430098797685,10.89989235400512,64.2609753764257,6.282503532320471,7.106385058545175,8.753818050254468,4.692860215982364e-05,1.2179649378895457e-11,54.211896657943726,0.12106498470529914,43.32623481750488,0.00013486190937328502,2.3406237363815308
